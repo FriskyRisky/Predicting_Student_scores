@@ -3,3 +3,6 @@ this code is designed to predict the final score of a student based on the numbe
 
 
 link to the dataset :- https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+
+
+video demonstration :- https://youtu.be/m_IdNhxMs7I
